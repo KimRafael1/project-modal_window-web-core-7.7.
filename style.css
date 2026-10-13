@@ -72,10 +72,12 @@ body {
 .modal-content {
     width: 500px;
     height: 200px;
-    background-color: cadetblue;
+    background-color: white;
     z-index: 2;
     padding: 15px;
     border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+
 }
 
 @media (max-width: 769px ) {
